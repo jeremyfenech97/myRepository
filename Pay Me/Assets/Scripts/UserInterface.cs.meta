@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 444b6a4d0ac3b6049abc39bb96dc7f7c
+timeCreated: 1510667969
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - amountLblSkin: {fileID: 11400000, guid: 6202b149b4586ac4785cfa3b0b30d84a, type: 2}
+  - coinSound: {fileID: 8300000, guid: 2c5d17ffaea807c44b52b519e4120a7e, type: 3}
+  - youwin: {fileID: 8300000, guid: f302861d00ed6134c828645dccc02e7c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
